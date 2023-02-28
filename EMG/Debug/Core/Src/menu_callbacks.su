@@ -1,0 +1,5 @@
+../Core/Src/menu_callbacks.c:17:6:clearSD	4	static
+../Core/Src/menu_callbacks.c:22:6:turn_ALL_OFF	4	static
+../Core/Src/menu_callbacks.c:27:7:turn_BL	4	static
+../Core/Src/menu_callbacks.c:33:13:turn_SD	4	static
+../Core/Src/menu_callbacks.c:41:6:reset	4	static

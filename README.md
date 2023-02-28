@@ -1,1 +1,0 @@
-# EMG_Aquisition_system

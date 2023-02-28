@@ -1,0 +1,8 @@
+../Core/Src/SD_card.c:8:9:mountSDcard	8	static
+../Core/Src/SD_card.c:14:6:unmountSDcard	8	static
+../Core/Src/SD_card.c:19:6:deleteFile	16	static
+../Core/Src/SD_card.c:25:9:writeDataPacked	16	static
+../Core/Src/SD_card.c:38:9:checkerror	8	static
+../Core/Src/SD_card.c:44:6:readData	16	static
+../Core/Src/SD_card.c:54:5:bufsize	24	static
+../Core/Src/SD_card.c:62:6:bufclear	16	static
